@@ -10,14 +10,12 @@
 <img src="https://github.com/Dane129/Dane129/assets/146590324/4d472f8b-111d-4d77-964c-2b5c12ae6e53">
 </p>
 
-<ul>
-  <li>Name <strong>Daniel</strong> </li>
-  <li>Live in <strong>Brazil</strong></li>
-  <li>Studying <strong>Cybersecurity</strong></li>
-  <li>Learning 日本語</li>
-  <li>Understand Portuguese and English</li>
-</ul>
-
+<p align="center">Name <strong>Daniel</strong> </p>
+<p align="center">Live in <strong>Brazil</strong></p>
+<p align="center">Studying <strong>Cybersecurity</strong></p>
+<p align="center">Learning 日本語</p>
+<p align="center">Understand Portuguese and English</p>
+</br>
 <p align="center">
 <img src="https://github.com/Dane129/Dane129/assets/146590324/090c226e-9c13-4d87-9851-01497aa318b3">
 </p>
