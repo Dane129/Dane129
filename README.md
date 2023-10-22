@@ -15,13 +15,10 @@
 <p align="center">Studying <strong>Cybersecurity</strong></p>
 <p align="center">Learning 日本語</p>
 <p align="center">Understand Portuguese and English</p>
+<p align="center"><em>In an IT degree at the moment</em></p>
 </br>
 <p align="center">
 <img src="https://github.com/Dane129/Dane129/assets/146590324/090c226e-9c13-4d87-9851-01497aa318b3">
 </p>
 
-<em><h6 align="center">In an IT degree at the moment</h6></em>
-<!---
-Dane129/Dane129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
