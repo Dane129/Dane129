@@ -12,7 +12,7 @@
 
 <p align="center">Name <strong>Daniel</strong> </p>
 <p align="center">Live in <strong>Brazil</strong></p>
-<p align="center">Studying <strong>Web Development</strong> and <strong>Cybersecurity</strong></p>
+<p align="center">Studying <strong>Web Development</strong></p>
 <p align="center">Learning 日本語</p>
 <p align="center">Understand Portuguese and English</p>
 <p align="center"><em>In an IT degree at the moment</em></p>
