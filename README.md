@@ -15,7 +15,7 @@
 <p align="center">Studying <strong>Web Development</strong></p>
 <p align="center">Learning 日本語</p>
 <p align="center">Understand Portuguese and English</p>
-<p align="center"><em>In a internet systems technologist degree</em></p>
+<p align="center"><em>In an internet systems technologist degree</em></p>
 </br>
 <p align="center">
 <img src="https://github.com/Dane129/Dane129/assets/146590324/090c226e-9c13-4d87-9851-01497aa318b3">
