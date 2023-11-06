@@ -1,10 +1,10 @@
 
-<p align="center">Name <strong>Daniel</strong> </p>
-<p align="center">Live in <strong>Brazil</strong></p>
-<p align="center">Studying <strong>Web Development</strong></p>
-<p align="center">Studying English a lot</p>
-<p align="center">Understand Portuguese and English</p>
-<p align="center"><em>In an IT degree</em></p>
+Name <strong>Daniel</strong><br>
+Live in <strong>Brazil</strong><br>
+Studying <strong>Web Development with Java</strong><br>
+Studying <strong>English a lot</strong><br>
+Understand Portuguese and English<br>
+<em>In an IT degree</em></p>
 
 
 
